@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: burlywood;
+}
+
+.btn{
+    font-size: 20px;
+    margin-top:20px;
+}
+
+.login{
+    margin-top: 300px;
+}
+.margin-left{
+    margin-left: 200px;
+}
+.margin-right{
+    margin-right: 200px;
+}
